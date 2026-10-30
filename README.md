@@ -1,6 +1,10 @@
-# Recon backend
+<p align="center">
+  <img src="assets/recon-backend-mark.png" alt="Secure event API and check-in mark" width="200" />
+</p>
 
-FastAPI service for user profiles, Google OAuth, refresh tokens, and role-gated user administration. It is part of the [Recon event platform](https://github.com/AbhiramVSA/Recon).
+<h1 align="center">Recon backend</h1>
+
+<p align="center">FastAPI service for user profiles, Google OAuth, refresh tokens, and role-gated user administration. It is part of the <a href="https://github.com/AbhiramVSA/Recon">Recon event platform</a>.</p>
 
 ## API surface
 
